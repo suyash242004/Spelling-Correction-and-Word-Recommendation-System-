@@ -1,6 +1,8 @@
 # Smart Spelling Correction & Word Suggestions
 
-This project is an interactive spelling correction and word suggestion tool, developed using Python’s . It helps users refine their spelling and discover word recommendations based on a predefined text corpus.
+![Spelling Correction Demo](https://github.com/suyash242004/Spelling-Correction-and-Word-Recommendation-System-/blob/main/Output_Image.png?raw=true)
+
+This project is an interactive spelling correction and word suggestion tool, developed using Python’s `tkinter` library. It helps users refine their spelling and discover word recommendations based on a predefined text corpus.
 
 ## Features
 
